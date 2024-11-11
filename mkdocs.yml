@@ -53,3 +53,6 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list
   - md_in_html
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/mr-bev" target="_blank" rel="noopener">Aaron Beverley</a>
